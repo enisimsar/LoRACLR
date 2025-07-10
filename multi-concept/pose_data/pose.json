@@ -1,0 +1,26 @@
+[
+    {
+        "img_id": 1,
+        "img_dir": "multi-concept/pose_data/pose1.png",
+        "region1": "[0, 0, 512, 320]",
+        "region2": "[0, 650, 512, 910]"
+    },
+    {
+        "img_id": 2,
+        "img_dir": "multi-concept/pose_data/pose2.png",
+        "region1": "[0, 0, 512, 415]",
+        "region2": "[0, 505, 512, 1024]"
+    },
+    {
+        "img_id": 3,
+        "img_dir": "multi-concept/pose_data/pose3.png",
+        "region1": "[40,300,470,450]",
+        "region2": "[90,660,512,906]"
+    },
+    {
+        "img_id": 4,
+        "img_dir": "multi-concept/pose_data/pose4.png",
+        "region1": "[200,77,512,230]",
+        "region2": "[0,650,370,833]"
+    }
+]

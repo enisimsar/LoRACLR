@@ -1,0 +1,12 @@
+[tool.black]
+line-length = 88
+target-version = ["py310"]  # adjust based on your Python version
+skip-string-normalization = false
+
+[tool.isort]
+profile = "black"
+line_length = 88
+
+[tool.flake8]
+max-line-length = 88
+extend-ignore = ["E203", "W503"]

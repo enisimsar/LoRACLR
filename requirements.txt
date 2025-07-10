@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+accelerate
+diffusers==0.19.3
+transformers==4.37.0
+einops
+omegaconf
+torch==2.2.2
+torchvision==0.17.2
+opencv-python==4.11.0.86
+huggingface_hub==0.25.0
+numpy==1.26.3
